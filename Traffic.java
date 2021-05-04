@@ -28,6 +28,7 @@ class Traffic extends Frame implements ItemListener
         green.setBackground(Color.GREEN);
         green.setBounds(1000, 400, 100, 60);
 
+
 	    add(red);
 	    add(yellow);
         add(green);
